@@ -3,7 +3,7 @@
 <div align="center"> 
   
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
-![LeetCode Stats](https://leetcode.card.workers.dev/u/ajay_joseph123?theme=dark&font=source_code_pro)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ajay_joseph123?theme=dark&font=Source%20Code%20Pro)
 </div>
 
 <div align="center">
