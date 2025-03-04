@@ -2,12 +2,12 @@
 <h3 align="center">A Passionate MERN Stack Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayjoseph-creator&label=Profile%20views&color=0e75b6&style=flat" alt="ajayjoseph-creator" />
+  <img src="https://komarev.com/ghpvc/?username=ajayjoseph-creator&label=Profile%20views&color=blueviolet&style=plastic" alt="ajayjoseph-creator" />
 </p>
 
 <div align="center"> 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=chartreuse-dark" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
   </a>
   <br /><br />
   <img src="https://leetcard.jacoblin.cool/ajay_joseph123?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
@@ -17,7 +17,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </div>
 
@@ -35,7 +35,7 @@
 
 ## 🏅 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayjoseph-creator&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ajayjoseph-creator&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -75,9 +75,16 @@
 
 ---
 
+## 🐍 Contribution Snake Animation:
+<p align="center">
+  <img src="https://github.com/ajayjoseph-creator/ajayjoseph-creator/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+</p>
+
+---
+
 ## 📊 GitHub Activity:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayjoseph-creator&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayjoseph-creator&theme=dark-modern&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
