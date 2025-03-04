@@ -27,14 +27,12 @@
   </style>
 
   <div>
-    📈 **My GitHub Stats:**  
     <a href="https://github.com/ajayjoseph-creator">
       <img class="stat-card" src="https://github-readme-stats.vercel.app/api?username=ajayjoseph-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=45,0f0c29,302b63,24243e&title_color=FFD700&text_color=FFFFFF&icon_color=FF4500&border_radius=10" alt="Ajay's GitHub Stats"/>
     </a>
   </div>
 
   <div>
-    📊 **Most Used Languages:**  
     <a href="https://github.com/ajayjoseph-creator">
       <img class="stat-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=radical&hide_border=true&bg_color=45,6a11cb,2575fc&title_color=FFD700&text_color=FFFFFF&icon_color=FF4500&border_radius=10" alt="Most Used Languages"/>
     </a>
