@@ -7,7 +7,7 @@
 
 <div align="center"> 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
+    <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=chartreuse-dark&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
   </a>
   <br /><br />
   <img src="https://leetcard.jacoblin.cool/ajay_joseph123?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
