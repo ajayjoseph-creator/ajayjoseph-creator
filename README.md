@@ -85,4 +85,15 @@
     transform: scale(1.05);
     transition: 0.3s ease-in-out;
   }
+  a:hover img {
+    transform: rotate(10deg);
+    transition: 0.3s ease-in-out;
+  }
+  h1, h3 {
+    animation: fadeIn 1.5s ease-in-out;
+  }
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
 </style>
