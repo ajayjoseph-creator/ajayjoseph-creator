@@ -18,22 +18,37 @@
 ## 🚀 **GitHub Analytics**
 <div align="center">
 
-📈 **My GitHub Stats:**  
-<a href="https://github.com/ajayjoseph-creator">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayjoseph-creator&show_icons=true&theme=gradient&hide_border=true&bg_color=45,ff7e5f,feb47b&title_color=ffffff&text_color=ffffff&icon_color=ffdd40&border_radius=10" alt="Ajay's GitHub Stats"/>
-</a>
+  <style>
+    .stat-card:hover {
+      transform: scale(1.05);
+      transition: all 0.4s ease-in-out;
+      box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
+    }
+  </style>
 
-📊 **Most Used Languages:**  
-<a href="https://github.com/ajayjoseph-creator">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=merko&hide_border=true&bg_color=45,ff7e5f,feb47b&title_color=ffffff&text_color=ffffff&icon_color=ffdd40&border_radius=10" alt="Most Used Languages"/>
-</a>
+  <div>
+    📈 **My GitHub Stats:**  
+    <a href="https://github.com/ajayjoseph-creator">
+      <img class="stat-card" src="https://github-readme-stats.vercel.app/api?username=ajayjoseph-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=45,0f0c29,302b63,24243e&title_color=FFD700&text_color=FFFFFF&icon_color=FF4500&border_radius=10" alt="Ajay's GitHub Stats"/>
+    </a>
+  </div>
 
-🔥 **GitHub Streaks:**  
-<a href="https://github.com/ajayjoseph-creator">
-  <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=radical&background=45,1E90FF,FF4500&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF8000&currStreakLabel=00FF00&currStreakNum=FFD700&sideLabels=FF69B4&ring=ffdd40&dates=ffffff" alt="GitHub Streak"/>
-</a>
+  <div>
+    📊 **Most Used Languages:**  
+    <a href="https://github.com/ajayjoseph-creator">
+      <img class="stat-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=radical&hide_border=true&bg_color=45,6a11cb,2575fc&title_color=FFD700&text_color=FFFFFF&icon_color=FF4500&border_radius=10" alt="Most Used Languages"/>
+    </a>
+  </div>
+
+  <div>
+    🔥 **GitHub Streaks:**  
+    <a href="https://github.com/ajayjoseph-creator">
+      <img class="stat-card" src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=radical&background=45,ff0000,0000ff&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF8000&currStreakLabel=00FF00&currStreakNum=FFD700&sideLabels=FF69B4&ring=FFD700&dates=FFFFFF" alt="GitHub Streak"/>
+    </a>
+  </div>
 
 </div>
+
 
 
 ---
