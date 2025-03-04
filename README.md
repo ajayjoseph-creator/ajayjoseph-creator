@@ -25,7 +25,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=tokyonight&hide_border=true)
 
 🔥 **GitHub Streaks:**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=radical&background=45,ff0000,0000ff&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF8000&currStreakLabel=00FF00&currStreakNum=FFD700&sideLabels=FF69B4)
+
 
 </div>
 
