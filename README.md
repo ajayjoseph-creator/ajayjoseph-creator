@@ -18,7 +18,7 @@
 - 🔭 I’m currently working as a **MERN Stack Developer** at **Bridgeon Solutions LLP**  
 - 🌱 I’m currently learning **Redux & GitHub**  
 - 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express.js, MongoDB, SQL, C#, C++, C, Java**  
-- 📫 Reach me at **aj@506039@gmail.com**  
+- 📫 Reach me at **aj2506039@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
