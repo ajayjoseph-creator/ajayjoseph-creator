@@ -26,8 +26,17 @@
 ## 🏆 About Me:
 - 🔭 Currently working as a **MERN Stack Developer** at **Bridgeon Solutions LLP**  
 - 🌱 Learning **Redux & GitHub**  
+- 🎯 Currently Focusing on **Building Scalable & Optimized Web Apps**  
 - 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express.js, MongoDB, SQL, C#, C++, C, Java**  
+- ⚡ Fun Fact: **I love solving problems, whether it's coding or real-life challenges!**  
 - 📫 Reach me at **aj2506039@gmail.com**  
+
+---
+
+## 🏅 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajayjoseph-creator&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
 
 ---
 
@@ -62,6 +71,13 @@
   <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" height="62" /></td>
 </tr>
 </table>
+</p>
+
+---
+
+## 📊 GitHub Activity:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayjoseph-creator&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
