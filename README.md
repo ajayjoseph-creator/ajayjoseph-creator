@@ -67,12 +67,7 @@
 
 ---
 
-## 🚀 **Projects & Contributions**
-🔹 [E-commerce Website](https://github.com/ajayjoseph-creator/ecommerce) - **MERN Stack project**  
-🔹 [Portfolio Website](https://github.com/ajayjoseph-creator/portfolio) - **Personal Portfolio in React**  
-🔹 [Task Manager](https://github.com/ajayjoseph-creator/task-manager) - **Task Management App using Node.js & MongoDB**  
 
----
 
 ## 📖 **What I Have Learned So Far**
 ✅ **HTML & CSS** - Structure, Flexbox, Grid, Bootstrap  
@@ -84,12 +79,7 @@
 
 ---
 
-## 🎨 **Recent Designs in Figma**
-🔹 [E-commerce UI Design](https://www.figma.com/)  
-🔹 [Portfolio UI/UX Concept](https://www.figma.com/)  
-🔹 [Dashboard Design](https://www.figma.com/)  
 
----
 
 ## 🌍 **Let's Connect!**
 <div align="center">
