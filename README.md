@@ -18,13 +18,7 @@
 ## 🚀 **GitHub Analytics**
 <div align="center">
 
-  <style>
-    .stat-card:hover {
-      transform: scale(1.05);
-      transition: all 0.4s ease-in-out;
-      box-shadow: 0px 0px 20px rgba(255, 255, 255, 0.5);
-    }
-  </style>
+ 
 
   <div>
     <a href="https://github.com/ajayjoseph-creator">
