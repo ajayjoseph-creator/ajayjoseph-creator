@@ -1,92 +1,67 @@
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&lines=Hey+There!+I'm+Ajay+Joseph;Full+Stack+Developer;MERN+Stack+Enthusiast;Passionate+about+Coding!"/>
-  </a>
-</p>
-
----
-
+<h1 align="center">Hi 👋, I'm Ajay Joseph</h1>
+<h3 align="center">A Passionate MERN Stack Developer from India</h3>
+<div align="center"> 
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ajayjoseph&theme=chartreuse-dark)](https://git.io/streak-stats) <br /><br />
+![LeetCode Stats](https://leetcode.card.workers.dev/ajayjoseph?theme=dark&font=source_code_pro&extension=null)
+</div>
 <div align="center">
   
-# 👋 Hey, I'm **Ajay Joseph!**  
-🚀 Aspiring **Full-Stack Developer** | 🎨 Web Designer | ⚡ Passionate about coding  
-
-🌱 **Currently Learning:** JavaScript, Node.js, Express.js, MongoDB, React  
-💻 **Skills:** JavaScript, HTML, CSS, Bootstrap, React, Node.js, MongoDB  
-🎯 **Goals:** Master MERN Stack & Build Scalable Web Apps  
-🔥 **Fun Fact:** I love football & video editing!  
-
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
+<img align = "right" alt = "coding" width="400" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="ajayjoseph" /> </p>
 
----
+- 🔬 I’m currently working as a MERN Stack Developer in Bridgeon Solutions LLP
 
-## 🚀 **GitHub Analytics**
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/ajayjoseph-creator">
-          <img src="https://github-readme-stats.vercel.app/api?username=ajayjoseph-creator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=FFFFFF&icon_color=FF4500" alt="Ajay's GitHub Stats"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ajayjoseph-creator">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF" alt="Most Used Languages"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <a href="https://github.com/ajayjoseph-creator">
-          <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=radical&background=0D1117&border_radius=10&fire=FF8000&currStreakLabel=00FF00&currStreakNum=FFD700&sideLabels=FF69B4&ring=FFD700&dates=FFFFFF" alt="GitHub Streak"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express.js, MongoDB, SQL, C#, C++, C, Java**
 
----
+- 📧 Reach me at **ajayjoseph.dev@gmail.com**
 
-## 🛠️ **Tech Stack & Tools**
-### 🚀 Languages and Tools:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://instagram.com/ajayjoseph.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajayjoseph" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/ajayjoseph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajayjoseph" height="30" width="40" /></a>
 </p>
 
----
-
-## 📖 **What I Have Learned So Far**
-✅ **HTML & CSS** - Structure, Flexbox, Grid, Bootstrap  
-✅ **JavaScript** - ES6+, DOM Manipulation, Functions, Arrays, Async/Await  
-✅ **React** - Components, Props, State, Hooks  
-✅ **Node.js & Express.js** - REST APIs, Middleware, Authentication  
-✅ **MongoDB** - CRUD Operations, Aggregation, Schema Design  
-✅ **Figma** - UI/UX Design, Wireframing  
-
----
-
-## 🌍 **Let's Connect!**
 <div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajayjoseph-creator)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<table>
+<tr>
+  <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48"/></td>
+  <td  align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="40" height="40"/> </td>
+  <td  align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></td>
+  <td  align="center" width="96"><img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="Node JS" width="65" height="65" /></td>
+</tr>
+<tr>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
+  <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /></td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></td>
+</tr>
+<tr>
+  <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="62" height="62" /></td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" height="62" /></td>
+  <td align="center" width="96"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></td>
+</tr>
+<tr>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="62" height="62" /></td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="c++" width="62" height="62" /> </td>
+  <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="csharp" width="62" height="62" /> </td>
+</tr>
+<tr>
+  <td align="center" width="96"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </td>
+  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="62" height="62" /></td>
+  <td align="center" width="96"><img src="http://jwt.io/img/icon.svg" alt="JWT" width="62" height="62"  /></td>
+  <td align="center" width="96"><img src="https://vetores.org/d/bootstrap.svg" alt="bootstrap" width="40" height="40"/></td>
+</tr>
+</table>
+</p>
 </div>
 
----
-
-<div align="center">
-  
-🚀 **"Code. Build. Repeat!"** 😃  
-Thanks for visiting my profile! 😊
-
-</div>
+![Footer](https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg)
