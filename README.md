@@ -19,16 +19,22 @@
 <div align="center">
 
 📈 **My GitHub Stats:**  
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajayjoseph-creator&show_icons=true&theme=tokyonight&hide_border=true)
+<a href="https://github.com/ajayjoseph-creator">
+  <img src="https://github-readme-stats.vercel.app/api?username=ajayjoseph-creator&show_icons=true&theme=gradient&hide_border=true&bg_color=45,ff7e5f,feb47b&title_color=ffffff&text_color=ffffff&icon_color=ffdd40&border_radius=10" alt="Ajay's GitHub Stats"/>
+</a>
 
 📊 **Most Used Languages:**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=tokyonight&hide_border=true)
+<a href="https://github.com/ajayjoseph-creator">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=merko&hide_border=true&bg_color=45,ff7e5f,feb47b&title_color=ffffff&text_color=ffffff&icon_color=ffdd40&border_radius=10" alt="Most Used Languages"/>
+</a>
 
 🔥 **GitHub Streaks:**  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=radical&background=45,ff0000,0000ff&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF8000&currStreakLabel=00FF00&currStreakNum=FFD700&sideLabels=FF69B4)
-
+<a href="https://github.com/ajayjoseph-creator">
+  <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=radical&background=45,1E90FF,FF4500&border_radius=15&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=FF8000&currStreakLabel=00FF00&currStreakNum=FFD700&sideLabels=FF69B4&ring=ffdd40&dates=ffffff" alt="GitHub Streak"/>
+</a>
 
 </div>
+
 
 ---
 
