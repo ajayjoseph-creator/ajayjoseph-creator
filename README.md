@@ -27,7 +27,7 @@
 - 🔭 Currently working as a **MERN Stack Developer** at **Bridgeon Solutions LLP**  
 - 🌱 Learning **Redux & GitHub**  
 - 🎯 Currently Focusing on **Building Scalable & Optimized Web Apps**  
-- 💬 Ask me about **JavaScript, React, Next.js, Node.js, Express.js, MongoDB, SQL, C#, C++, C, Java**  
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB ,Tailwind ,HTML,CSS**  
 - ⚡ Fun Fact: **I love solving problems, whether it's coding or real-life challenges!**  
 - 📫 Reach me at **aj2506039@gmail.com**  
 
@@ -65,7 +65,8 @@
   <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
   <td align="center"><img src="https://vetores.org/d/bootstrap.svg" alt="Bootstrap" width="40" height="40"/></td>
   <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></td>
+<td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/></td>
+
 </tr>
 <tr>
   <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" height="62" /></td>
@@ -73,14 +74,7 @@
 </table>
 </p>
 
----
 
-## 🐍 Contribution Snake Animation:
-<p align="center">
-  <img src="https://github.com/ajayjoseph-creator/ajayjoseph-creator/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
----
 
 ## 📊 GitHub Activity:
 <p align="center">
