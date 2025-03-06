@@ -29,7 +29,8 @@
 - 🎯 Currently Focusing on **Building Scalable & Optimized Web Apps**  
 - 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB ,Tailwind ,HTML,CSS**  
 - ⚡ Fun Fact: **I love solving problems, whether it's coding or real-life challenges!**  
-- 📫 Reach me at **aj2506039@gmail.com**  
+- 📫 Reach me at **aj2506039@gmail.com**
+- 🕸  My portfolio **https://ajays-creative-canvas.vercel.app/**
 
 ---
 
