@@ -1,89 +1,119 @@
-<h1 align="center">Hi 👋, I'm Ajay Joseph</h1>
-<h3 align="center">A Passionate MERN Stack Developer from India</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajayjoseph-creator&label=Profile%20views&color=blueviolet&style=plastic" alt="ajayjoseph-creator" />
-</p>
-
-<div align="center"> 
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ajayjoseph-creator&theme=chartreuse-dark&hide_border=true&fire=DD2727" alt="GitHub Streak"/>
-  </a>
-  <br /><br />
-  <img src="https://leetcard.jacoblin.cool/ajay_joseph123?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats"/>
+<!-- CUSTOM HEADER WITH PERSPECTIVE DESIGN -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12&height=300&section=header&text=JITHIN%20J%20Z&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%7C%20REACT%20%7C%20FASTAPI&descAlignY=60&descSize=22&descColor=eeeeee"/>
 </div>
-
-<br />
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-  </a>
+  <a href="https://www.linkedin.com/in/jithin-kr/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
+  <a href="mailto:jithinjzx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
+  <a href="https://jithinr.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
+  <a href="https://www.instagram.com/jithin.jz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&style=for-the-badge"/></a>
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<br>
 
-## 🏆 About Me:
-- 🔭 Currently working as a **MERN Stack Developer** at **Bridgeon Solutions LLP**  
-- 🌱 Learning **Redux & GitHub**  
-- 🎯 Currently Focusing on **Building Scalable & Optimized Web Apps**  
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB ,Tailwind ,HTML,CSS**  
-- ⚡ Fun Fact: **I love solving problems, whether it's coding or real-life challenges!**  
-- 📫 Reach me at **aj2506039@gmail.com**
-- 🕸  My portfolio **https://ajays-creative-canvas.vercel.app/**
+## 👨‍💻 About Me
 
----
-
-## 🏅 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajayjoseph-creator&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📞 Connect with Me:
-<p>
-  <a href="https://www.instagram.com/ajay._.joseph._/?__pwa=1" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ajay-joseph-077444313/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-## 🛠️ Tech Stack:
-<p align="center">
-<table>
-<tr>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="48" height="48"/></td>
-  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></td>
-  <td align="center"><img src="https://github.com/thouseef-hamza/thouseef-hamza/assets/119723781/effd598b-922b-42ad-b520-189f1aec55fd" alt="Node.js" width="65" height="65" /></td>
-</tr>
-<tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></td>
-  <td align="center"><img src="https://vetores.org/d/bootstrap.svg" alt="Bootstrap" width="40" height="40"/></td>
-  <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></td>
-<td align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="40" height="40"/></td>
-
-</tr>
-<tr>
-  <td align="center"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Toolkit" width="62" height="62" /></td>
-</tr>
+<table border="0">
+  <tr>
+    <td width="60%">
+      <p align="justify">
+        Hey there 👋🏻 I’m <b>Jithin</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend the reliability of Django, the interactivity of React, and the speed of FastAPI to build modern solutions that perform flawlessly in the real world.
+      </p>
+      <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
+      <ul>
+        <li>✨ Seamless RESTful APIs that just work</li>
+        <li>⚡ High-speed backends with Django & FastAPI</li>
+        <li>🧠 Database mastery with PostgreSQL, MySQL</li>
+        <li>🎨 Pixel-perfect UIs using React + Tailwind CSS</li>
+        <li>🚀 Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
+      </ul>
+      <p><strong>🛠️ Always learning. Always building. Always leveling up.</strong></p>
+      <p>Let’s connect and create something impactful together! 🌐</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
+      <br>
+      <em>Turning complex ideas into elegant code</em>
+    </td>
+  </tr>
 </table>
-</p>
 
+<br>
 
+## 🛠️ Tech Stack
 
-## 📊 GitHub Activity:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayjoseph-creator&theme=dark-modern&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+<div align="center">
+  <h3>Frontend Ecosystem</h3>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A" alt="React">
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  
+ <h3>Backend Mastery</h3>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 
----
+  
+  <h3>Data & Storage</h3>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  
+  <h3>DevOps & Cloud</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
+</div>
 
-<p align="center">
-  <img src="https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg" alt="Footer"/>
-</p>
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-jz&layout=compact&langs_count=7&theme=tokyonight"/>
+      </td>
+    </tr>
+  </table>
+  
+  <img width="800em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jithin-jz&theme=tokyonight" />
+</div>
+
+<br>
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%">
+</div>
+
+<br>
+
+<div align="center" style="padding: 20px; margin: 30px 0; border-radius: 16px; background: linear-gradient(135deg, #f0f4ff 0%, #ffffff 100%); border: 1px solid #d0d7ff;">
+  <h2>💭 Development Philosophy</h2>
+  <img src="https://quotes-github-readme.vercel.app/api?theme=dark" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jithin-jz&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5433FF,50:20BDFF,100:A5FECB&height=150&section=footer&fontSize=90&fontAlignY=70&animation=fadeIn"/>
+</div>
+
+<div align="center">
+<sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Jithin </sub>
+</div>
+
