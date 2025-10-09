@@ -1,1 +1,58 @@
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AJAY%20JOSEPH&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js&fontSize=60&descSize=20&animation=fadeIn" />
+</div>
+
+<!-- SOCIAL BADGES -->
+<div align="center" style="margin-top:10px;">
+  <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://yourportfolio.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</div>
+
+<br>
+
+## 👨‍💻 About Me
+Hey there 👋🏻 I'm **Ajay Joseph**, a full stack developer who loves turning ideas into clean, scalable, and high-performance web applications. I work with React, Node.js, and MongoDB to build modern solutions that shine in the real world.  
+
+### 🔧 What I Brew in My Dev Lab:
+- ✨ Seamless RESTful APIs  
+- ⚡ High-speed backends with Node.js  
+- 🧠 Database mastery with MongoDB  
+- 🎨 Pixel-perfect UIs with React + Tailwind CSS  
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.2);" />
+  <br>
+  <em>Turning complex ideas into elegant code</em>
+</div>
+
+---
+
+## 🛠️ Technologies & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,redux,tailwind,bootstrap,html,css,mongodb,vercel,git,github,postman,figma,vscode" width="30%">
+</div>
+
+---
+
+## 📊 GitHub Analytics
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=for-the-badge"/>
+</div>
+
+---
+
+<div align="center">
+  <sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Ajay</sub>
+</div>
 
