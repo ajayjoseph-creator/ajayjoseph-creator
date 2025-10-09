@@ -36,21 +36,7 @@ Hey there 👋🏻 I'm **Ajay Joseph**, a full stack developer who loves turning
 
 ---
 
-## 📊 GitHub Analytics
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=blueviolet&style=for-the-badge"/>
-</div>
-
----
 
 <div align="center">
   <sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Ajay</sub>
