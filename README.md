@@ -1,7 +1,5 @@
 <!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AJAY%20JOSEPH&desc=Full%20Stack%20Developer%20|%20React%20|%20Node.js&fontSize=60&descSize=20&animation=fadeIn" />
-</div>
+
 
 <!-- SOCIAL BADGES -->
 <div align="center" style="margin-top:10px;">
