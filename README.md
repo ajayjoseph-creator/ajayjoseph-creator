@@ -22,27 +22,31 @@
   <tr>
     <td width="60%">
       <p align="justify">
-        Hey there 👋🏻 I'm <b>Ajay Joseph</b>, a full stack developer who turns ideas into clean, scalable, and high-performance web applications. I blend the reliability of Django, the interactivity of React, and the speed of FastAPI to build modern solutions that perform flawlessly in the real world.
+        Hey there 👋🏻 I'm <b>Ajay Joseph</b>, a MERN stack developer who builds fast, scalable, and production-ready web applications.  
+        I craft clean TypeScript-powered code, architect solid APIs, and develop interactive UIs with a strong focus on performance and real-world usability.
       </p>
-      <h4>👨🏻‍💻 What I brew in my dev lab:</h4>
+      <h4>👨🏻‍💻 What I build in my dev world:</h4>
       <ul>
-        <li>✨ Seamless RESTful APIs that just work</li>
-        <li>⚡ High-speed backends with Django & FastAPI</li>
-        <li>🧠 Database mastery with PostgreSQL, MySQL</li>
-        <li>🎨 Pixel-perfect UIs using React + Tailwind CSS</li>
-        <li>🚀 Cloud-ready deployments with Docker, Vercel, AWS, and CI/CD</li>
+        <li>✨ Modern RESTful APIs using Node.js, Express, and TypeScript</li>
+        <li>⚡ Next.js apps with server components, routing, and blazing performance</li>
+        <li>🧠 Database architecture with PostgreSQL, MongoDB & Prisma/Mongoose</li>
+        <li>🎨 Beautiful, responsive UIs with React + Tailwind CSS</li>
+        <li>🚀 Cloud-ready deployments on Vercel, Render, Docker & CI/CD pipelines</li>
+        <li>🔒 Secure authentication systems (JWT, OAuth, NextAuth)</li>
       </ul>
       <p><strong>🛠️ Always learning. Always building. Always leveling up.</strong></p>
-      <p>Let's connect and create something impactful together! 🌐</p>
+      <p>Let’s connect and ship something extraordinary together! 🌐</p>
     </td>
     <td width="40%" align="center">
-      <img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:16px; box-shadow: 0 12px 30px rgba(0,0,0,0.2);">
+      <img 
+        src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+        width="100%" 
+        style="border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.2);">
       <br>
-      <em>Turning complex ideas into elegant code</em>
+      <em>Crafting powerful experiences with elegant code</em>
     </td>
   </tr>
 </table>
-
 <br>
 
 ## 🛠️ Technologies & Tools 
