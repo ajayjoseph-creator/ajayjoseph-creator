@@ -5,8 +5,8 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/jithin-kr/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white&labelColor=0A66C2&style=for-the-badge"/></a>&nbsp;
   <a href="mailto:jithinjzx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white&style=for-the-badge"/></a>&nbsp;
-  <a href="https://jithin.site"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
-  <a href="https://www.instagram.com/jithin.jz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://ajayjoseph.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=plastic&logo=vercel&logoColor=white&style=for-the-badge"/></a>&nbsp;
+  <a href="https://www.instagram.com/_jesus_army__/?__pwa=1"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&style=for-the-badge"/></a>
 </div>
 
 <!-- SEPARATOR -->
@@ -31,8 +31,8 @@
         <li>⚡ Next.js apps with server components, routing, and blazing performance</li>
         <li>🧠 Database architecture with PostgreSQL, MongoDB & Prisma/Mongoose</li>
         <li>🎨 Beautiful, responsive UIs with React + Tailwind CSS</li>
-        <li>🚀 Cloud-ready deployments on Vercel, Render, Docker & CI/CD pipelines</li>
-        <li>🔒 Secure authentication systems (JWT, OAuth, NextAuth)</li>
+        <li>🚀 Cloud-ready deployments on Vercel, Render</li>
+        <li>🔒 Secure authentication systems (JWT, OAuth)</li>
       </ul>
       <p><strong>🛠️ Always learning. Always building. Always leveling up.</strong></p>
       <p>Let’s connect and ship something extraordinary together! 🌐</p>
@@ -61,31 +61,31 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=redux" width="55" /><br><b>Redux</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="55" /><br><b>Tailwind</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" /><br><b>Bootstrap</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="55" /><br><b>Material UI</b></td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="55" /><br><b>Material UI</b></td> -->
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" /><br><b>HTML5</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" /><br><b>CSS3</b></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55" /><br><b>Python</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="55" /><br><b>Django</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="55" /><br><b>FastAPI</b></td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=python" width="55" /><br><b>Python</b></td> -->
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=django" width="55" /><br><b>Django</b></td> -->
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="55" /><br><b>FastAPI</b></td> -->
     <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="55" /><br><b>PostgreSQL</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="55" /><br><b>MongoDB</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55" /><br><b>MySQL</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55" /><br><b>SQLite</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="55" /><br><b>MySQL</b></td> -->
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="55" /><br><b>SQLite</b></td> -->
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" /><br><b>Docker</b></td> -->
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" /><br><b>Linux</b></td> -->
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="55" /><br><b>AWS</b></td> -->
     <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="55" /><br><b>Vercel</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" /><br><b>Git</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" /><br><b>GitHub</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="55" /><br><b>Postman</b></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" /><br><b>Figma</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=svelte" width="55" /><br><b>Svelte</b></td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=svelte" width="55" /><br><b>Svelte</b></td> -->
     <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" /><br><b>VS Code</b></td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="55" /><br><b>Bash</b></td>
+    <!-- <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="55" /><br><b>Bash</b></td> -->
   </tr>
 </table>
 
@@ -104,10 +104,10 @@
   <table>
     <tr>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jithin-jz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ajayjoseph-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
       </td>
       <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jithin-jz&layout=compact&langs_count=7&theme=tokyonight"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayjoseph-creator&layout=compact&langs_count=7&theme=tokyonight"/>
       </td>
     </tr>
   </table>
@@ -127,17 +127,7 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🧋 boba me
 
-<div align="center">
-  <p><em>I've been losing sleep, baby that's true,<br>
-  But every little sip reminds me of you.<br>
-  <br>
-  <!-- <p>if my code hits different, feel free to buy me a coffee — no cap, it keeps the builds coming 🔥</p> -->
-  <a href="https://www.buymeacoffee.com/jithinjz" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
-  </a>
-</div>
 
 
 <!-- SEPARATOR -->
@@ -152,5 +142,5 @@
 <br>
 
 <div align="center">
-<sub>⚡ Powered by passion, fueled by coffee ☕ | Made with ❤️ by Ajay Joseph </sub>
+<sub>⚡ Powered by passion| Made with ❤️ by Ajay Joseph </sub>
 </div>
